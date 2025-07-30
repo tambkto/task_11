@@ -1,7 +1,7 @@
 
 # Application Deployment on Bean Stalk via Code PipeLine
 
-This repository uses **Terraform** to provision AWS infrastructure and deploy an **Node Js** using **Elastic Bean Stalk** via **Code PipeLine**
+This repository uses **Terraform** to provision AWS infrastructure and deploy an **Node Js** on **Elastic Bean Stalk** via **Code PipeLine**
 
 ## 🚀 Project Overview
 
